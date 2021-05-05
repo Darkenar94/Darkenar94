@@ -1,5 +1,5 @@
 Salve! 👋 mi chiamo Lorenzo Vitali nato il 24/11/95.
-possiedo conoscenze nel linguaggio [python], 🐍 con esperienza di 1 anno circa,
+possiedo conoscenze nel linguaggio python, 🐍 con esperienza di 1 anno circa,
 interessato a tutto ciò che possa accrescere il mio sapere 📝
 ed attualmente all'approfondimento di: oop, sql, pandas, git e linux.
 Per contattarmi 💬 scrivere alla seguente e-mail: [darkenarnovequattro@libero.it] 
