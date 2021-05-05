@@ -4,7 +4,7 @@ interessato a tutto ciò che possa accrescere il mio sapere 📝
 ed attualmente all'approfondimento di: oop, sql, pandas, git e linux.
 Per contattarmi 💬 scrivere alla seguente e-mail: [darkenarnovequattro@libero.it] 
 
-# sapere è potere 🧠
+# > sapere è potere 🧠
 
 <!--
 **Darkenar94/Darkenar94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
