@@ -8,7 +8,8 @@ Per contattarmi 💬 scrivere al seguente contatto di posta elettronica: [darken
 
 adoro la musica. 
 
-![Music_player](https://user-images.githubusercontent.com/57009875/121076087-46d19080-c7d6-11eb-9f43-0b1933c226d2.JPG)
+![music_player](https://user-images.githubusercontent.com/57009875/121112126-4655eb80-c810-11eb-9665-257447e49a27.JPG)
+
 
 <!--
 **Darkenar94/Darkenar94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
