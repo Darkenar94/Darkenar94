@@ -1,4 +1,4 @@
-Salve! 👋 mi chiamo Lorenzo Vitali nato il 24/11/95 padre di una bellissima bambina di nome Sharon.
+Salve! 👋 mi chiamo Lorenzo Vitali nato il 24/11/95 e padre di una bellissima bambina di nome Sharon.
 possiedo conoscenze nel linguaggio python, 🐍 con esperienza di 1 anno circa,
 interessato a tutto ciò che possa accrescere il mio sapere 📝
 ed attualmente all'approfondimento di: oop, sql, pandas, git e linux.
